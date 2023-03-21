@@ -1,1 +1,7 @@
-package go_web_project
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hellow world!")
+}
